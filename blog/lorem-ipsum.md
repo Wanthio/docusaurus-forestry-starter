@@ -3,7 +3,7 @@ tags:
 - Book
 - gggg
 - Hello
-id: ''
+id: Blog 2
 title: Lorem Ipsum
 author: Anonim
 author_title: RWs
